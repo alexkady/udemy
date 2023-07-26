@@ -1,0 +1,3 @@
+SELECT * FROM DetaliiClienti
+SELECT * FROM DetaliiClienti WHERE ORAS IS NULL
+SELECT * FROM DetaliiClienti WHERE NUME IS NULL
